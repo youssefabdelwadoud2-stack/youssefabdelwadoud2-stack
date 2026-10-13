@@ -14,9 +14,8 @@ A Full Business Analytics Project Using SQL Server and Tableau. To Understand cu
 
 SQL Server • Tableau • Views • Data Clinging
 
-To View the project
+To View the project: 
+https://github.com/youssefabdelwadoud2-stack/Customer-Analytics-Segmentation-And-Retention-
+
+For Interactive Dashboard: 
 https://youssefabdelwadoud2-stack.github.io/Data-Analytics-Portfolio-/projects/customer-analytics.html
-
-Interactive Dashboard
-
-View Interactive Tableau Dashboard
