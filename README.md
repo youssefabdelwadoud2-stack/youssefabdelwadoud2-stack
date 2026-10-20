@@ -29,7 +29,7 @@ A Full Business Analytics Project Using SQL Server And Microsoft Excel. The Proj
 Skills: SQL Server • Excel • Power Query • DAX • Data Modeling • Power Pivot • Pivot Table
 
 To View the project: 
-https://github.com/youssefabdelwadoud2-stack/E-Commerce-Retail-Sales-Performance-Analytics.
+https://github.com/youssefabdelwadoud2-stack/E-Commerce-Retail-Sales-Performance-Analytics./blob/main/README.md.
 
 Interactive Dashboard: 
 https://youssefabdelwadoud2-stack.github.io/Data-Analytics-Portfolio-/projects/ecommerce-sales.html
